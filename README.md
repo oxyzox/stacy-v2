@@ -73,7 +73,7 @@ Once Stacy V2 is running, you can use the following command to get the status of
 
 #### Example:
 
-- `/status <java> <play.projectmc.fun> [ https://example.com/logo.pnl] ["Use play.projectmc.fun to connect!"]`
+- `/status <java> <play.projectmc.fun> [ https://example.com/logo.png] ["Use play.projectmc.fun to connect!"]`
 
 
 This will return a beautiful embed with the server status, player count, server version, and any additional info or images you provide!
